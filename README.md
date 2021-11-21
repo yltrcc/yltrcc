@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
-**yltrcc/yltrcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/yltrcc">
+    <img src="https://github-readme-stats.vercel.app/api?username=yltrcc&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
